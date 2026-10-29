@@ -37,7 +37,7 @@ I am writing up each phase as a Medium series, *The LumiPay Files*: https://oxha
 
 ## License
 
-Documents in this repository are shared under CC BY-NC. Standards referenced belong to ISO/IEC and are not redistributed here.
+License. All rights reserved. The documents in this repository may be viewed for evaluation purposes but may not be copied, modified, or redistributed without written permission. Standards referenced belong to ISO/IEC and are not redistributed here.
 
 ---
 
