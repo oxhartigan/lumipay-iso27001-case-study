@@ -22,7 +22,6 @@ The work follows ISO/IEC 27001:2022, ISO/IEC 27002:2022, and ISO/IEC 27005:2018.
 | Implementer | Risk workbook (Excel) | Sheets: Risk Register, Risk Criteria, Risk Treatment Plan, Statement of Applicability (93 controls), and summary |
 | Implementer | Management Approval | Approval record for the treatment plan and residual risks |
 | Auditor | Internal Audit Report | 8 findings (2 Major, 3 Minor, 3 Observations) and follow-up priorities |
-| Both | Decision and Learning Journal | Why each decision was made and what I learned |
 
 ## Method
 
